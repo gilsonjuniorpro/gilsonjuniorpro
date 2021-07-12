@@ -13,7 +13,7 @@
 
 My name is Gilson Junior, I am an Android Developer completely passionate about Technology, App Development, Innovation and create things with LEGO.
 
-- :office_worker: I’m currently working as Android Developer at **onDev.ca**
+- :office_worker: I’m currently working as Android Developer at **Flybits**
 - 🌱 I’m currently learning Flutter.
 - 👯 I’m looking to collaborate on Android Communities.
 - 💬 Ask me about Lego, Android or any Cinema related stuff.
