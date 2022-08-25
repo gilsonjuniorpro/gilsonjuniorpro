@@ -37,15 +37,8 @@ I am an Experienced Android Developer passionate about Technology, **Android Dev
 <div>
 <a href="https://github.com/gilsonjuniorpro">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gilsonjuniorpro&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gilsonjuniorpro&layout=compact&langs_count=15&theme=dark"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gilsonjuniorpro&layout=compact&langs_count=15&theme=dark&hide=javascript,html"/>
 </div>
-  
-  <a href="https://github.com/gilsonjuniorpro/gilsonjuniorpro">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gilsonjuniorpro&repo=gilsonjuniorpro" />
-</a>
-<a href="https://github.com/gilsonjuniorpro/Pedemeia">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gilsonjuniorpro&repo=Pedemeia" />
-</a>
 ---
   
 
