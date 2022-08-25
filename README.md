@@ -39,6 +39,8 @@ I am an Experienced Android Developer passionate about Technology, **Android Dev
 <img height="150em" src="https://github-readme-stats.vercel.app/api?username=gilsonjuniorpro&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gilsonjuniorpro&langs_count=15&theme=dark&hide=javascript,html"/>
 </div>
+
+https://github-readme-stats-nine-brown.vercel.app/api/top-langs/?username=gilsonjuniorpro&layout=compact
 ---
   
 
