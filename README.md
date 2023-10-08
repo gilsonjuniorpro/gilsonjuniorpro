@@ -1,5 +1,3 @@
----
-
 # 👋 Hi there, I'm Gilson Junior! :man_technologist:
 
 ![Android Developer](https://img.shields.io/badge/Android%20Developer-9%20years%20experience-green) 
@@ -10,8 +8,6 @@
 ## 🌟 About Me
 
 I'm an **Android Developer** with over **9 years** of hands-on experience, specializing in crafting state-of-the-art mobile applications across various industries. Beyond mere coding, I bring a strategic mindset to my projects, ensuring they are as delightful to use as they are functional.
-
----
 
 ## 🛠️ Tech Stack
 
@@ -27,27 +23,18 @@ I'm an **Android Developer** with over **9 years** of hands-on experience, speci
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code> 
 
-
----
-
 ## 🚀 Current Learning & Goals
 
 - Deepening my expertise in **Android Jetpack Compose** and **Flutter**
 - Exploring **Kotlin Multi-Platform**
 
----
-
 ## 🏢 Work Experience
 
 Currently, I'm heavily involved in both front-end and back-end aspects of our mobile applications. My focus ranges from shaping and fine-tuning the user interface to architecting and coding functional components.
 
----
-
 ## 👨‍🏫 Mentorship
 
 I'm honored to serve as a mentor at **Google Platform Advocacy for the Android Pilot course**, where I share my experience and insights with up-and-coming developers from Portuguese-speaking countries.
-
----
 
 ## 🤝 Let's Connect!
 
@@ -66,14 +53,12 @@ I'm always open to exciting opportunities and collaborations in the Mobile domai
 
 Feel free to connect or shoot me a message!
 
----
-
 <div>
 <a href="https://github.com/gilsonjuniorpro">
 <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=gilsonjuniorpro&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gilsonjuniorpro&layout=compact&langs_count=15&theme=dark"/>
 </div>
-  
+
 ---
   
 
