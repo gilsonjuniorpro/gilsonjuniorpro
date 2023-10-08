@@ -1,6 +1,59 @@
-### Hi there 👋
+---
 
-# Gilson Junior :man_technologist:
+# 👋 Hi there, I'm Gilson Junior! :man_technologist:
+
+![Android Developer](https://img.shields.io/badge/Android%20Developer-9%20years%20experience-green) 
+![Kotlin](https://img.shields.io/badge/Kotlin-Expert-blue) 
+![Mentor](https://img.shields.io/badge/Mentor-Google%20Platform%20Advocacy-yellow)
+
+
+## 🌟 About Me
+
+I'm an **Android Developer** with over **9 years** of hands-on experience, specializing in crafting state-of-the-art mobile applications across various industries. Beyond mere coding, I bring a strategic mindset to my projects, ensuring they are as delightful to use as they are functional.
+
+---
+
+## 🛠️ Tech Stack
+
+- **Languages:** Kotlin, Java, Dart, PHP, Python
+- **Frameworks:** Android Jetpack Compose, Flutter
+- **Others:** Kotlin Multi-Platform
+- **OS:** Linux
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code> 
+
+
+---
+
+## 🚀 Current Learning & Goals
+
+- Deepening my expertise in **Android Jetpack Compose** and **Flutter**
+- Exploring **Kotlin Multi-Platform**
+
+---
+
+## 🏢 Work Experience
+
+Currently, I'm heavily involved in both front-end and back-end aspects of our mobile applications. My focus ranges from shaping and fine-tuning the user interface to architecting and coding functional components.
+
+---
+
+## 👨‍🏫 Mentorship
+
+I'm honored to serve as a mentor at **Google Platform Advocacy for the Android Pilot course**, where I share my experience and insights with up-and-coming developers from Portuguese-speaking countries.
+
+---
+
+## 🤝 Let's Connect!
+
+I'm always open to exciting opportunities and collaborations in the Mobile domain. I also have a passion for contributing to open-source projects and Linux. 
+
+📫 **How to reach me:**
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/gilsonjuniorpro)](https://github.com/gilsonjuniorpro)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gilsonjuniorpro/)](https://www.linkedin.com/in/gilsonjuniorpro/)
@@ -11,28 +64,9 @@
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=telegram&logoColor=white&link=https://t.me/gilsonjuniorpro)](https://t.me/gilsonjuniorpro)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gilsonjuniorpro@gmail.com)](mailto:gilsonjuniorpro@gmail.com)
 
-## Hi there 👋
+Feel free to connect or shoot me a message!
 
-I am an Experienced Android Developer passionate about Technology, **Android Development**, Innovation, and creating things with LEGO.
-
-- 🌱 I’m currently learning Jetpack Compose.
-- 👯 I’m looking to collaborate on Android Communities.
-- 💬 Ask me about Lego, Android or any Cinema related stuff.
-- :blue_heart: Techs: Android Native, MVVM, Architecture Components and Building Blocks!
-- :books: Head First Design Patterns: Eric Freeman & Elisabeth Robson
-- :books: Cracking the Job Interview: Gayle Laakmann Mcdowell
-- :books: Clean Architecture: Robert C. Martin
-- 📫 How to reach me: [Gilson Junior Profile](https://g.dev/gilsonjuniorpro)
-- ⚡ Fun fact: I like to build things with lego.
-
-**Languages and Tools:**  
-
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code> 
+---
 
 <div>
 <a href="https://github.com/gilsonjuniorpro">
