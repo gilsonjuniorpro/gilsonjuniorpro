@@ -38,7 +38,7 @@ I'm honored to serve as a mentor at **Google Platform Advocacy for the Android P
 
 ## 🤝 Let's Connect!
 
-I'm always open to exciting opportunities and collaborations in the Mobile domain. I also have a passion for contributing to open-source projects and Linux. 
+I'm always open to exciting opportunities and collaborations in the Mobile domain. I also have a passion for contributing to open-source projects such as libraries and Linux. 
 
 📫 **How to reach me:**
 
