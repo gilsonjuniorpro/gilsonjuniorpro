@@ -40,7 +40,7 @@ I'm honored to serve as a mentor at **Google Platform Advocacy for the Android P
 
 I'm always open to exciting opportunities and collaborations in the Mobile domain. I also have a passion for contributing to open-source projects such as libraries and Linux. 
 
-📫 **How to reach me:**
+📫 **How to reach me**
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/gilsonjuniorpro)](https://github.com/gilsonjuniorpro)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gilsonjuniorpro/)](https://www.linkedin.com/in/gilsonjuniorpro/)
