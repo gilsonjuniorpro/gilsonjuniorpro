@@ -1,13 +1,13 @@
 # 👋 Hi there, I'm Gilson Junior! :man_technologist:
 
-![Android Developer](https://img.shields.io/badge/Android%20Developer-11%20years%20experience-green) 
+![Mobile Developer](https://img.shields.io/badge/Android%20Developer-11%20years%20experience-green) 
 ![Kotlin](https://img.shields.io/badge/Kotlin-Expert-blue) 
 ![Mentor](https://img.shields.io/badge/Mentor-Google%20Platform%20Advocacy-yellow)
 
 
 ## 🌟 About Me
 
-I'm an **Android Developer** with over **11 years** of hands-on experience, specializing in crafting state-of-the-art mobile applications across various industries. Beyond mere coding, I bring a strategic mindset to my projects, ensuring they are as delightful to use as they are functional.
+I'm an **Mobile Developer** with over **11 years** of hands-on experience, specializing in crafting state-of-the-art mobile applications across various industries. Beyond mere coding, I bring a strategic mindset to my projects, ensuring they are as delightful to use as they are functional.
 
 ## 🛠️ Tech Stack
 
