@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Gilson Junior! :man_technologist:
 
-![Mobile Developer](https://img.shields.io/badge/Android%20Developer-11%20years%20experience-green) 
+![Mobile Developer](https://img.shields.io/badge/Android%20Developer-11+%20years%20experience-green) 
 ![Kotlin](https://img.shields.io/badge/Kotlin-Expert-blue) 
 ![Mentor](https://img.shields.io/badge/Mentor-Google%20Platform%20Advocacy-yellow)
 
