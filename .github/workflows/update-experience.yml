@@ -1,0 +1,53 @@
+name: Update Experience Years
+
+on:
+  schedule:
+    # Roda diariamente à meia-noite UTC
+    - cron: '0 0 * * *'
+  workflow_dispatch: # Permite execução manual
+  push:
+    branches:
+      - main
+      - master
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Calculate years of experience
+        id: calculate_years
+        run: |
+          START_YEAR=2012
+          CURRENT_YEAR=$(date +%Y)
+          YEARS=$((CURRENT_YEAR - START_YEAR))
+          echo "years=$YEARS" >> $GITHUB_OUTPUT
+          echo "Calculated years: $YEARS"
+
+      - name: Update README
+        run: |
+          YEARS="${{ steps.calculate_years.outputs.years }}"
+          # Atualiza o badge
+          sed -i "s/Android%20Developer-[0-9]\+%2B%20years/Android%20Developer-${YEARS}%2B%20years/g" README.md
+          # Atualiza o texto na seção About Me
+          sed -i "s/with over \*\*[0-9]\+ years\*\*/with over **${YEARS} years**/g" README.md
+          echo "Updated README with $YEARS years of experience"
+
+      - name: Commit changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add README.md
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "🔄 Auto-update: Years of experience to ${YEARS} years"
+            git push
+          fi
