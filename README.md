@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Gilson Junior! :man_technologist:
+# 👋 Hi there, I'm Gilson Junior :man_technologist:
 
 ![Mobile Developer](https://img.shields.io/badge/Android%20Developer-14+%20years%20experience-green) 
 ![Kotlin](https://img.shields.io/badge/Kotlin-Expert-blue) 
