@@ -7,7 +7,7 @@
 
 ## 🌟 About Me
 
-I'm an **Mobile Developer** with over **14 years** of hands-on experience, specializing in crafting state-of-the-art mobile applications across various industries. Beyond mere coding, I bring a strategic mindset to my projects, ensuring they are as delightful to use as they are functional.
+I'm an **Mobile Developer** with over **15 years** of hands-on experience, specializing in crafting state-of-the-art mobile applications across various industries. Beyond mere coding, I bring a strategic mindset to my projects, ensuring they are as delightful to use as they are functional.
 
 ## 🛠️ Tech Stack
 
